@@ -34,6 +34,7 @@ I am very used to fast prototyping and improvising through many projects I did o
 4. Succeed
 5. ~~Improve the code, so it's only a mild dumpsterfire~~
 6. Push to master and set mobile to mute 
+7. Set up VS Code to work with SSH keys
 
 ## Also, I am German
 Beeing an exchange students sucks, because everthing is twice as hard, but it may actually happen that i get into this course
