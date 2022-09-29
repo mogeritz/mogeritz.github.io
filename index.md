@@ -15,7 +15,7 @@ Making stuff is my passion, be it
 - [Obscure videogame memorabilia](https://metrovideogame.fandom.com/wiki/Lighter)
 I mostly approach any problem head on, because theres nothing you can't learn by just doing it until it works. Thats the way we learn. Or at least I do. I also do photography, but not of people, because thats exhausting and stressfull. At least not of People i know.
 
-![This should be an Image](https://drive.google.com/file/d/1VOqoevb8hxmJ1DKPNlXKMX9KYfy-DjyJ/view?usp=sharing)
+![This should be an Image](https://lh4.googleusercontent.com/97TM-FAGHPGr51cVpaU5RIwHTW09auy_vL6MPDD9GoACsFYGmGULtd9KMMP6KW-_LxI=w2400)
 
 ## Who I am as a Programmer
 
